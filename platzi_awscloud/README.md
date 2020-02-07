@@ -8,6 +8,7 @@
 - La beca dura un año
 - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/c880ec1c27249a264c7f6c7ebd05f24a/image.png)
 - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/433093fc3a9db525631c66ebdb0d5a3a/image.png)
+- ![https://passwordsgenerator.net/](passwordsgenerator.net.)
 
 ### [Introducción a la oferta de servicios de AWS y sus aplicaciones](https://platzi.com/clases/1323-aws-cloud/12575-introduccion-a-la-oferta-de-servicios-de-aws-y-sus/)
 - 
