@@ -46,4 +46,15 @@
 - Game development
   - Crear juegos
 
+### [Ejemplo de arquitectura con Elastic Beanstalk](https://platzi.com/clases/1323-aws-cloud/12576-ejemplo-de-arquitectura-con-elastick-beanstalk/)
+- ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/7b138c276e40bb3fe177b5d7accae870/image.png)
+- Elastic load balancer permite configurar https con el certificado que decidas
+- En amazon puedes crear un servicio por ssl sin necesidad de comprar un certificado, ya que el certificado que creas en amazon va a ser compatible con la mayoria de navegadores y móviles.
+- El cliente se conecta a una IP PUBLICA que es la de ELB (elastic load balancer)
+- Pasando el ELB podria ir a una instancia concreta que esta en distintas regiones del mundo
+- Las instancias son servidores de aplicaciones
+- ELB se conecta con CLOUD WATCH (el chivato de la salud de tus instancias)
+- ELB provee una API que permite hacer modificaciones sobre Beanstalk esto mismo se puede llevar a cabo usando AWS Management console.
+- Amazon tiene su propio DNS, permite hacer cambios de IT de manera muy sencilla
+- Sistema de alta disponibilidad
 
