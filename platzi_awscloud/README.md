@@ -65,6 +65,7 @@
   - Se pueden crear distintas llasves 
 - El espacio:
   - Es económico, para desarrollo con 8 GB de hdd es suficiente. Se puede ampliar a posteriori
+- ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/951e4c7e27f337bf811d4b92ccebfea9/image.png)
 - Redundancia:
   - El datacenter lo puedes tener en distintas regiones
   - Se hace snapshot de una maquina y se mueve a otra region
@@ -74,7 +75,10 @@
 - IPS ESTATICAS:
   - Cada instancia tiene una IP Publica y Privada (para dentro de amazon)
   - Por más que se tenga una IP dinamica en una instancia siempre que la instancia exista conservara la misma IP
+- ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/85164e76fb9d085cb65f78dec04990c8/image.png)
 - Migracion y snapshot:
   - Los respaldos se pueden hacer como snapshots para puntos de retorno
   - Se pueden mover de regiones para backups
-  
+- Se puede cambiar en caliente el tamaño de la RAM
+
+### []()
