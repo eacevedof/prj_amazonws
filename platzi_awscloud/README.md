@@ -58,3 +58,23 @@
 - Amazon tiene su propio DNS, permite hacer cambios de IT de manera muy sencilla
 - Sistema de alta disponibilidad
 
+### [¿Qué es EC2?](https://platzi.com/clases/1323-aws-cloud/12577-que-es-ec2/)
+- EC2 son maquinas virtuales en linea 
+- Instancias:
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/f2e8a990ff040aca145df18ee853e208/image.png)
+  - Se pueden crear distintas llasves 
+- El espacio:
+  - Es económico, para desarrollo con 8 GB de hdd es suficiente. Se puede ampliar a posteriori
+- Redundancia:
+  - El datacenter lo puedes tener en distintas regiones
+  - Se hace snapshot de una maquina y se mueve a otra region
+- Firewall:
+  - Se puede configurar el firewall para que una maquina este donde esté se pueda conectar siempre
+  - Se puede configurar distintas reglas
+- IPS ESTATICAS:
+  - Cada instancia tiene una IP Publica y Privada (para dentro de amazon)
+  - Por más que se tenga una IP dinamica en una instancia siempre que la instancia exista conservara la misma IP
+- Migracion y snapshot:
+  - Los respaldos se pueden hacer como snapshots para puntos de retorno
+  - Se pueden mover de regiones para backups
+  
