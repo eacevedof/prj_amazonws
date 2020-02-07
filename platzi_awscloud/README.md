@@ -4,7 +4,10 @@
   - *NOTA* En este punto ya debes de tener un link de activación en la cuenta de email con lo que puedes utilizar los servicios de amazon sin necesidad de poner una CC.
 - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/b65848664cf702390ffd5d871fa254d5/image.png)
 - Beca. https://aws.amazon.com/grants
-
+- Con este plan (si justifcas que eres estudiante) amazon te da 30$ para que puedas probar los nuevos servicios que van saliendo.
+- La beca dura un año
+- ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/c880ec1c27249a264c7f6c7ebd05f24a/image.png)
+- ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/433093fc3a9db525631c66ebdb0d5a3a/image.png)
 
 ### [Introducción a la oferta de servicios de AWS y sus aplicaciones](https://platzi.com/clases/1323-aws-cloud/12575-introduccion-a-la-oferta-de-servicios-de-aws-y-sus/)
 - 
