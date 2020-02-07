@@ -11,4 +11,39 @@
 - ![https://passwordsgenerator.net/](passwordsgenerator.net.)
 
 ### [Introducción a la oferta de servicios de AWS y sus aplicaciones](https://platzi.com/clases/1323-aws-cloud/12575-introduccion-a-la-oferta-de-servicios-de-aws-y-sus/)
-- 
+- Computo
+- Storage
+- Database
+- Migration
+- Networking & content
+- Developer Tools
+  - X-Ray ayuda a ver que es lo que está pasando en la app mientras está funcionando
+- Management tools
+  - Cloudwatch Recursos de la maquina
+  - CloudTrait Logs de eventos de todas las maquinas
+- Media services
+  - Elastic transcode Sirve para hacer streaming
+- Machine Learning
+  - Rekognition interpreta lo que estas viendo
+- Analytics
+  - cuanta ram esta usando cada visitante, etc.
+- Security, Identity & Compliance
+  - IAM gestor de cuentas por roles
+  - Guardduty  Recuento de accesos de red que han habido. Sirve para detectar ataques
+- Mobile services
+  - Crear servicios moviles de manera más sencilla
+- AR & VR
+  - Realidad virtual
+- Application integration
+  - Automatizacion de rutinas, enviar emails.
+- Customer engagement
+  - mas para empresas, cuentas de correo
+- Business productivity
+- Desktop & App streaming
+  - Maquinas virtuales customizadas de recursos limitadas asociadas a n usuarios
+- Internet of things
+  - Puede proveer de hardware 
+- Game development
+  - Crear juegos
+
+
