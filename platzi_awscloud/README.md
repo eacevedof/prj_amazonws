@@ -125,8 +125,14 @@
   - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/3510c1a5727f94bdae35ca949947abfa/image.png)
   - Vemos el número de identificación, si hacemos click vamos a la consola:
   - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/626c3376fb880640030e78ae008cd873/image.png)
-  - Nos indica que la instancia está corriendo pero todavia no está lsita
--
+- Nos indica que la instancia está corriendo pero todavia no está lsita
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/dfc273cb992beabebf6520d054536c60/image.png)
+- **Elastic IP**:
+  - IP fija, puedes rentar una IP que la puedes asignar a tu instancia u otras. Si tienes un DNS que no está en amazon puedes asignar en tu DNS esta IP. Posteriormente, en Amazon, puedes ir cambiando de maquina sin que se vea afectado tu DNS y sin que se vean afectaados los usuarios que están accediendo a esa maquina a traves de un dominio
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/42fce76173b0977b6caa93bb77076c44/image.png)
+- Despues de que acabe la inicialización de la maquina, veremos como instalar el SO, instalar algún lenguaje de programación, un editor de textos, etc.
+
+
 
 
 
