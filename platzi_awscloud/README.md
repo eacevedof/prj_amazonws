@@ -82,4 +82,14 @@
 - Se puede cambiar en caliente el tamaño de la RAM
 
 ### [Creando una instancia de EC2](https://platzi.com/clases/1323-aws-cloud/12578-creando-una-instancia-de-ec2/)
-![](https://trello-attachments.s3.amazonaws.com/5e3de4638099128d5381b037/1002x524/5cb9545ce9449e55ea22bbd6f2df2892/image.png)
+- ![](https://trello-attachments.s3.amazonaws.com/5e3de4638099128d5381b037/1002x524/5cb9545ce9449e55ea22bbd6f2df2892/image.png)
+- ![](https://trello-attachments.s3.amazonaws.com/5e3de4638099128d5381b037/1122x534/34bd8a1fe7e7f0603b8e3d5ea2d3d95e/image.png)
+  - Hay que activar la cuenta (revisar email)
+  - Hay que aplicar el código enviado 
+  - Se necesita tarjeta de credito o debito, seleccionar el plan gratuito
+- ![](https://trello-attachments.s3.amazonaws.com/5e3de4638099128d5381b037/1006x626/78639ed16b711200bd3236d862f0a4db/image.png)
+  - EC2 dashboard
+  - Crear instancia
+  - Activar "Free tier only"
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/5a031b783f8a51599eb1f5e2a59e7591/image.png)
+
