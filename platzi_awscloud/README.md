@@ -82,4 +82,4 @@
 - Se puede cambiar en caliente el tamaño de la RAM
 
 ### [Creando una instancia de EC2](https://platzi.com/clases/1323-aws-cloud/12578-creando-una-instancia-de-ec2/)
-
+![](https://trello-attachments.s3.amazonaws.com/5e3de4638099128d5381b037/1002x524/5cb9545ce9449e55ea22bbd6f2df2892/image.png)
