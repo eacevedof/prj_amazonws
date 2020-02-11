@@ -81,4 +81,5 @@
   - Se pueden mover de regiones para backups
 - Se puede cambiar en caliente el tamaño de la RAM
 
-### []()
+### [Creando una instancia de EC2](https://platzi.com/clases/1323-aws-cloud/12578-creando-una-instancia-de-ec2/)
+
