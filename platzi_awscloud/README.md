@@ -92,4 +92,42 @@
   - Crear instancia
   - Activar "Free tier only"
   - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/5a031b783f8a51599eb1f5e2a59e7591/image.png)
+  - La version gratuita cuenta con menos ofertas pero aun así tiene una variedad considerable de sistemas.
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/30eb50680923ca118d2cd1a81f7ab15e/image.png)
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/f9e777614e3c011e2d62aa91f6239df7/image.png)
+    - Aqui nos indica cual es la gratuita
+- Ahora toca configurar algunas cosas:
+  - En esta pantalla no se hace realmente nada, todo está bien por defecto
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/0ca95257496b0d8012ec48b72e17ee49/image.png)
+- Storage:
+  - Se muestra un DD de 8 GB que es el plan gratuito, no hay que cambiarlo
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/a14e11daec4904b883bfea9d93786931/image.png)
+- Tag:
+  - Insertamos una etiqueta descriptiva que nos permita reconocer facilmente la instancia y/o sus caracteristicas
+  - Son varios items de clave=>valor
+  - Ejemplo: Name: PlatziLab
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/896e310b447247c888e5e5261888414e/image.png)
+- Security Group:
+  - Aqui podemos controlar el acceso a la máquina
+  - En el ejemplo, el grupo: "platzi-solo-ssh" solo va a tener activado SSH con conexion desde cualquier ip
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/3bea3af75ca6e8619073587c59e7039b/image.png)
+- Review:
+  - Muestra un resumen de lo configurado previamente 
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/8172ac4c1b970d9e6324f82153005ce8/image.png)  
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/da44170cb5918384c5c88203d7f1fd9c/image.png)
+  - La gratuita solo tiene un CPU y 1 GB de RAM
+- Posteriormente modificaremos la conf para que de servicios
+- Definimos una clave de conexión
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/5785cee2caa8224362a32ff9436717fa/image.png)
+  - Descargamos el fichero **.pem**
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/7a5232c4ef26db4dc0f086cc4388e703/image.png)
+- Lanzamos la instancia:
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/3510c1a5727f94bdae35ca949947abfa/image.png)
+  - Vemos el número de identificación, si hacemos click vamos a la consola:
+  - ![](https://trello-attachments.s3.amazonaws.com/5b014dcaf4507eacfc1b4540/5e3de4638099128d5381b037/626c3376fb880640030e78ae008cd873/image.png)
+  - Nos indica que la instancia está corriendo pero todavia no está lsita
+-
+
+
+
 
